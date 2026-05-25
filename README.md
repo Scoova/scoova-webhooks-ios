@@ -9,7 +9,7 @@ signature verifier using CryptoKit. iOS 15+, macOS 12+, tvOS 15+, watchOS 8+.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/Scoova/scoova-webhooks-ios.git", from: "1.0.0"),
+    .package(url: "https://github.com/Scoova/scoova-webhooks-ios.git", from: "1.0.1"),
 ],
 targets: [
     .target(name: "MyApp", dependencies: [
