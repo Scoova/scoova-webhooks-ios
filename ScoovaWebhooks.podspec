@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ScoovaWebhooks'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Webhook subscription CRUD plus HMAC-SHA256 signature verification.'
 
   s.description      = <<-DESC
